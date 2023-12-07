@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.840a2eb0.css",
-    "main.js": "/portfolio/static/js/main.7942d93b.js",
+    "main.js": "/portfolio/static/js/main.a46fe934.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/siin.png": "/portfolio/static/media/siin.3267623b46c1ed0163ee.png",
     "static/media/labeb.png": "/portfolio/static/media/labeb.b372aae633b356bb0e04.png",
-    "static/media/abdulrhman_aboukalam_backend_developer_resume.pdf": "/portfolio/static/media/abdulrhman_aboukalam_backend_developer_resume.a9366244f9e6bcf50997.pdf",
     "static/media/sama.png": "/portfolio/static/media/sama.40fdbbffd7a76a7b7aaa.png",
     "static/media/investment.png": "/portfolio/static/media/investment.4cb838d489716e08c346.png",
+    "static/media/Abdulrhman-Aboukalam-Backend-Engineer.pdf": "/portfolio/static/media/Abdulrhman-Aboukalam-Backend-Engineer.81941da392878e24c656.pdf",
     "static/media/tazkarte.png": "/portfolio/static/media/tazkarte.b53b0ecb79ea33a4820d.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
     "main.840a2eb0.css.map": "/portfolio/static/css/main.840a2eb0.css.map",
-    "main.7942d93b.js.map": "/portfolio/static/js/main.7942d93b.js.map",
+    "main.a46fe934.js.map": "/portfolio/static/js/main.a46fe934.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.840a2eb0.css",
-    "static/js/main.7942d93b.js"
+    "static/js/main.a46fe934.js"
   ]
 }
