@@ -7,13 +7,13 @@ function Type() {
       options={{
         strings: [
           "Software Engineer",
-          "Backend Developer",
+          "Backend Engineer",
           "Laravel Developer",
           // "Open Source Contributor",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 45,
       }}
     />
   );

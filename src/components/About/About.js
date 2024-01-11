@@ -5,7 +5,10 @@ import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
+import laptopAnimation from "../../Assets/Animation - 1701757364030.json";
 import Toolstack from "./Toolstack";
+import { Player } from "@lottiefiles/react-lottie-player";
+
 
 function About() {
   return (
@@ -27,11 +30,17 @@ function About() {
             <Aboutcard />
           </Col>
           <Col
-            md={5}
+            md={4}
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            {/* <img src={laptopImg} alt="about" className="img-fluid" /> */}
+            <Player
+                src={laptopAnimation}
+                className="player"
+                loop
+                autoplay
+              />
           </Col>
         </Row>
         <h1 className="project-heading">

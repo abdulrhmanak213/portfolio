@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Abdulrhman Aboukalam </span>
             from <span className="purple"> Damascus, Syria.</span>
             <br />
-            I am currently employed as a software developer at  <a className="purple" href="https://www.r-link.io" target="_blank">R-link.io</a>.
+            I am currently employed as a Backend Engineer at  <a className="purple" href="https://www.r-link.io" target="_blank">R-link.io</a>.
             <br />
             In additional, I'm a fifth-year IT Engineering student at Damascus University, specializing in Software Engineering
             <br />
@@ -21,13 +21,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Reading Books
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Writing Beatufull Things
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching football matches
+              <ImPointRight /> Trying Delicious Food
             </li>
           </ul>
 
